@@ -1,0 +1,40 @@
+<!doctype html>
+    <html lang="en">
+        <style>
+            h1 {
+                color:#00FF00;
+            }
+            a:link {
+                color:#FF0000;
+            }
+            a:visited {
+                color:#0033FF;
+            }
+        </style>
+        <head>
+            <meta charset="utf-8">
+            <title>Gallery</title>
+        <a href="index.html">Home</a>
+        <a href="portfolio.html">Portfolio</a>
+        <a href="csp_p3.html">Iain T: CSP-P3</a>
+        <a href="gallery.html">Gallery</a>
+        <h1>This is my photo gallery!</h1>
+        </head>
+        <body>
+            <br>
+            <img src="http://orig14.deviantart.net/e452/f/2014/220/9/d/mega_salamence_by_phatmon66-d7uaevx.png" height="100"> 
+            <img src="http://img06.deviantart.net/a9da/i/2016/305/a/6/primarina_by_shinyscyther-damwrsv.png" height="100">
+            <img src="http://img01.deviantart.net/9f8c/i/2013/283/b/d/mega_charizard_x_by_shinyscyther-d6pzgr2.png" height="100">
+            <img src="https://orig00.deviantart.net/d14f/f/2017/219/9/5/lycanroc_dusk_form_by_tarun2207-dbj6fga.png" height="100">
+            <img src="https://cdn.weasyl.com/static/media/24/3c/3b/243c3bd8181e06547a3674d0027d8c596200567a68bb8e42dad6ef1ccb1da85f.png" height="100">
+            <img src="http://img14.deviantart.net/f08a/i/2016/131/0/6/solgaleo___the_sun_legendary_by_tomycase-da24zep.png" height="100">
+            <br>
+            <img src="https://cdn.vox-cdn.com/thumbor/CnWxpEZlcDz4cHGDe3nia2trWLY=/0x0:1920x1080/1200x800/filters:focal(715x419:1021x725)/cdn.vox-cdn.com/uploads/chorus_image/image/55284505/Switch_SuperMarioOdyssey_char_047.1497560333.jpg" height="100">
+            <img src="http://orig00.deviantart.net/1bb0/f/2017/165/6/1/sonic_forces___boxart_modern_sonic_render_by_alsyouri2001-dbcqz8q.png" height="100">
+            <img src="http://www.geekbomb.net/wp-content/uploads/2017/12/mega-man-11.jpg" height="100">
+            <img src="http://pixelartmaker.com/art/2ce07bdb4cd8e74.png" height="100">
+            <img src="https://static.zerochan.net/Nahyuta.Sahdmadhi.full.2103846.jpg" height="100">
+            <img src="http://s.newsweek.com/sites/www.newsweek.com/files/styles/lg/public/2018/03/08/smash-bros-2018_0.png" height="100">
+            <br>
+        </body>
+    </html>
